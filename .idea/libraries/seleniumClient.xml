@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="seleniumClient">
+    <CLASSES>
+      <root url="file://E:/qaProjects/seleniumClient" />
+      <root url="file://E:/qaProjects/seleniumClient/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/qaProjects/seleniumClient" />
+    </SOURCES>
+    <jarDirectory url="file://E:/qaProjects/seleniumClient" recursive="false" />
+    <jarDirectory url="file://E:/qaProjects/seleniumClient/lib" recursive="false" />
+    <jarDirectory url="file://E:/qaProjects/seleniumClient" recursive="false" type="SOURCES" />
+  </library>
+</component>
